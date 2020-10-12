@@ -5,7 +5,6 @@ import mainapp as app
 import time
 import os
 
-
 class TestCredentials(unittest.TestCase):
 
     def test_credintials(self):
